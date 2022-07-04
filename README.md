@@ -8,7 +8,6 @@ I am a third year Computer Science student interested in Software Engineering, S
 - vuk.vukovic.2000@gmail.com
 - https://www.linkedin.com/in/vukovic-vuk/
 
-<br>
 
 ## Technologies & Tools :computer:
 ### Main Technologies:
@@ -32,7 +31,6 @@ I am a third year Computer Science student interested in Software Engineering, S
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-<br>
 
 ## GitHub Stats :bar_chart:
 
