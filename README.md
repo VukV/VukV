@@ -35,5 +35,5 @@ I am a third year Computer Science student interested in Software Engineering, S
 
 ## Language Stats :bar_chart:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VukV&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VukV&layout=compact&theme=github_dark)
 <!-- themes: vue-dark, github_dark, city_lights, nord, prussian, gotham -->
