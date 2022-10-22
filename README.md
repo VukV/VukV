@@ -1,15 +1,15 @@
 # Hi, I'm Vuk :wolf:
 
-## About me :milky_way:
-I am a third year Computer Science student interested in Software Engineering, Software Architecture, Backend Development and Microservices.
+## About me:
+I am a final year Computer Science student interested in Software Engineering, Software Architecture, Backend Development and Microservices.
 
 
-📫 How to reach me:
+How to reach me:
 - vuk.vukovic.2000@gmail.com
 - https://www.linkedin.com/in/vukovic-vuk/
 
 
-## Technologies & Tools :computer:
+## Technologies & Tools:
 ### Main:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -30,10 +30,11 @@ I am a third year Computer Science student interested in Software Engineering, S
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
-## Language Stats :bar_chart:
+## Language Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VukV&layout=compact&theme=github_dark)
 <!-- themes: vue-dark, github_dark, city_lights, nord, prussian, gotham -->
