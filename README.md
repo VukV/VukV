@@ -1,4 +1,4 @@
-# Hi, I'm Vuk :wolf:
+# Hi, I'm Vuk
 
 ## About me:
 I am a final year Computer Science student interested in Software Engineering, Software Architecture, Backend Development and Microservices.
