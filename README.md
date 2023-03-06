@@ -34,7 +34,7 @@ How to reach me:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
-## Language Stats:
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VukV&layout=compact&theme=github_dark)
 <!-- themes: vue-dark, github_dark, city_lights, nord, prussian, gotham -->
