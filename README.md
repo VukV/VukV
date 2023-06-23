@@ -1,13 +1,8 @@
 # Hi, I'm Vuk
 
 ## About me:
-I am a final year Computer Science student interested in Software Engineering, Software Architecture, Backend Development and Microservices.
-
-
-How to reach me:
-- vuk.vukovic.2000@gmail.com
-- https://www.linkedin.com/in/vukovic-vuk/
-
+I am a final year Computer Science student interested in Software Engineering, Backend Development and Microservices.
+<br> <br>
 
 ## Technologies & Tools:
 ### Main:
