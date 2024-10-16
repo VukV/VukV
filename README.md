@@ -1,7 +1,7 @@
 # Hi, I'm Vuk
 
 ## About me:
-I am a master's student specializing in Software Engineering, with a keen interest in Backend Development and Microservices.
+Master of Science in Software Engineering, with a keen interest in Backend Development and Microservices.
 <br> <br>
 
 ## Technologies & Tools:
